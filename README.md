@@ -60,9 +60,9 @@ Some repositories and software collections must be imported to use the Foreman m
 
 * Foreman - http://yum.theforeman.org/releases/
 * Foreman-plugins - http://yum.theforeman.org/plugins/
-* Ruby 193 - https://www.softwarecollections.org/en/scls/rhscl/ruby193/
-* Httpd24 - https://www.softwarecollections.org/en/scls/rhscl/httpd24/
 * V3814 - https://www.softwarecollections.org/en/scls/rhscl/v8314/
+* Httpd24 - https://www.softwarecollections.org/en/scls/rhscl/httpd24/
+* Ruby 193 - https://www.softwarecollections.org/en/scls/rhscl/ruby193/
 
 ### Beginning with Foreman
 
